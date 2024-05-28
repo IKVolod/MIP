@@ -1,0 +1,14 @@
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\bin\Debug\net8.0\Lab_5.exe
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\bin\Debug\net8.0\Lab_5.deps.json
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\bin\Debug\net8.0\Lab_5.runtimeconfig.json
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\bin\Debug\net8.0\Lab_5.dll
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\bin\Debug\net8.0\Lab_5.pdb
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.AssemblyInfoInputs.cache
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.AssemblyInfo.cs
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.dll
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\refint\Lab_5.dll
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.pdb
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\Lab_5.genruntimeconfig.cache
+C:\Users\Little Warudo\RiderProjects\MIP\Lab_5\obj\Debug\net8.0\ref\Lab_5.dll
